@@ -1,0 +1,17 @@
+VARIABLE:
+Una variable es un espacio de almacenamiento, es decir podemos almacenar o guardar un valor;
+tomemos como ejemplo una caja, la caja seria nuestra variable, donde podamos almacenar, ropa, zapato, o un sin fin de articulos.
+
+STRINGS:
+Un strings es una cadena de texto por ejemplo en una variable podemos almacenar el nombre, en otra variable nuestro apellido.
+    
+FUNCIONES (ARGUMENTOS, RETURN)
+Una funcion es conjunto de instrucciones con una determinada tarea, donde  devuelve un valor, por ejemplo podemos realizar una suma con una serie de pasos y al final devolvemos el resultado.
+
+DECLARACIONES IF
+Las declaraciones if son sentencias por ejemplo para salir a una fiesta debemos lavar los platosy si no lavamos los platos no vamos a la fiesta.
+
+VALORES BOOLEANOS(TRUE , FALSE)
+Los valores booleanos solamente tienes dos valores unicos que es el verdad y falso.
+
+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

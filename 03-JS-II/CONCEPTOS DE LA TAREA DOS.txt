@@ -1,0 +1,18 @@
+FOR
+Un bucle FOR podemos utilizar para poder repetir una o mas instrucciones un determindado numero de veces hasta que una condicion se cumpla, 
+por ejemplo juntamos a 5 niños para que puedan saltar pero le decimos que solamente saltes 10 veces, si no lo hacemos seguiran saltando.
+
+&&
+
+Es un operador lógico tambien se le conoce como el nombre de AND o en español es el Y.
+el operador logico && lo empleamos por ejemplo para ir a una fiesta debemos saber bailar y tener dinero,
+si no cumplimos estas dos condiciones no podemos ir.
+
+|| 
+
+Es un operador lógico conocido como OR en ingles y en español O, podemos emplear en algunas condicionales,
+por ejemplo si para ir a una fiesta, podemos bañarnos o no, pase lo que pase si iremos a la fiesta.
+ 
+!
+Es el operador negación, si usamos este operador es para hacer lo contrario,
+por ejemplo contrario de verdad es falso.
