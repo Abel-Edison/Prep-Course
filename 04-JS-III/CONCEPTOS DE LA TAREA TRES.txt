@@ -1,0 +1,3 @@
+ARRAYS
+Los array son arreglos basicamente en los arrays podemos almacenar cadenas de texto, numeros, etc.
+Los array son como cajas que podemos almacenar todo tipo de materiales.
