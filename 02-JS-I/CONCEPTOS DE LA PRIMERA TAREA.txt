@@ -1,0 +1,33 @@
+PREGUNTA
+En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a un niño
+de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero
+en tu comprensión.
+
+EXPLICACIONES DE CONCEPTOS
+
+VARIABLES: 
+
+Podemos decir que una variable, es como una caja vacia donde que se pueda
+almacenar o guardar un elemento.
+
+STRINGS:
+
+Los strings son todos aquellos cadenas de texto, como nuestro nombre, 
+apellido, el nombrede nuestra mascota, los cuales podemos guardar en una variable.
+
+FUNCIONES(argumentos, return)
+
+Una funcion es un bloque de intrucciones o serie e pasos para cumplir una terea,
+una funcion tiene argumentos como textos, numeros o valores booleanos(verdadero o Falso), 
+y tambien tiene un metodo return los cual se usa para el devolver el resultado de nuestra tarea. 
+
+DECLARACIONES if
+
+Las declaracion if es una condicional en la que se puede cumplir o no se puede cumplir.
+como ejemplo podemos decir que se quiero ir a una fiesta primero tengo que lavar los platos y salir,
+y si no lavo los platos no puedo salir.
+
+VALORES BOOLEANOS(true, false)
+
+Los valores booleanos representan solamente dos valores VERDADERO Y FALSO.
