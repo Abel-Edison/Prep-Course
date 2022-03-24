@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a un niño 
+de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero 
+en tu comprensión.
+
+ARRAYS
+
+Los arrays son como contenedores en el cual podemos almacenar diferentes
+tipos de objetos, a diferencua de los variables en el cual se podia almacenar 
+solo un valor, mientras que en un array podemos guardar varias cantidades de valores.
+ 
