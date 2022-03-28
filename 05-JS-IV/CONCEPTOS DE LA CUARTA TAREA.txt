@@ -1,0 +1,29 @@
+En un archivo de texto separado que debes crear, escribe explicaciones
+de los siguientes conceptos como si se lo estuvieras explicando a un niño
+de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero
+en tu comprensión.
+
+CONCEPTOS A RESOLVER:
+
+OBJETOS:
+Los objetos en programación, son entidades que tienen una serie de 
+propiedades, por ejemplo podemos tener un objeto persona y este persona
+tiene como propiedades como nombre, apellidos, pais, idioma etc.
+
+PROPIEDADES:
+Una propiedad es una caracteristica o atributo de un objeto por ejemplo
+las propiedades de un perro serian: color, raza, edad etc.
+
+METODOS:
+Los metodos son funciones las cuales estan integradas como una propiedad
+de un objeto.
+
+BUCLE FOR ...IN
+El Bucle for..in podemos utilizar para llamar una determinada propiedad
+de un array para imprimir y así mismo las propiedades de un objeto.
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES
+Podemos acceder atraves de un punto a la propiedad de un objeto así mismo
+con los corchetes tambien podemos acceder a las propiedades de un objeto pero
+el mas utilizado de entre los dos es la notacion de puntos.
+
